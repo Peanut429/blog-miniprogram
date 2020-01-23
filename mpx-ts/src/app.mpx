@@ -1,0 +1,13 @@
+<script lang="ts" src="./app.ts"></script>
+
+<style>
+
+</style>
+
+<script type="application/json">
+  {
+    "pages": [
+      "./pages/index"
+    ]
+  }
+</script>
